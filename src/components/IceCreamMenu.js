@@ -2,7 +2,7 @@ import React from 'react';
 
 function IceCreamMenu() {
   const iceCreamItems = [
-    { name: 'Icey Pops', price: '3.00' },
+    { name: 'Icey Pops', price: '4.00' },
     { name: 'Crown', price: '4.00' },
     { name: 'Choc Bars', price: '4.00' },
   ];

@@ -2,17 +2,18 @@ import React from 'react';
 
 function FoodMenu() {
   const burgers = [
-    { name: 'Chicken Burger', price: '10.00' },
-    { name: 'Beef Burger', price: '10.00' }
+    { name: 'Chicken Burger', price: '14.00' },
+    { name: 'Beef Burger', price: '14.00' },
+    { name: 'Burger Meal', price: '20.00' }
   ];
 
   const fries = [
-    { name: 'Small Fries', price: '5.00' },
+    { name: 'Small Fries', price: '6.00' },
     { name: 'Large Fries', price: '10.00' }
   ];
 
   const chips = [
-    { name: 'Chip On A Stick', price: '8.00' }
+    { name: 'Chip On A Stick', price: '7.00' }
   ];
 
   return (

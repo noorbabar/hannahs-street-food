@@ -6,13 +6,13 @@ function DrinksMenu() {
     { name: 'Large Slushy', price: '6.00' },
     { name: 'Small Slushy', price: '3.00' },
     { name: 'Iced Coffee', price: '6.00' },
-    { name: 'Iced Chocolate', price: '6.00' },
+    { name: 'Iced Chocolate', price: '7.00' },
     { name: 'Cans', price: '3.00' },
     { name: 'Water Bottle', price: '3.00' },
     { name: 'Energy Cans', price: '4.00' },
     { name: 'Prime', price: '8.00' },
-    { name: 'Juice Box', price: '2.50' },
-    { name: 'Energy Drinks', price: '5.00' },
+    { name: 'Juice Box', price: '3.00' },
+    { name: 'Gatorade/Powerade', price: '5.00' },
   ];
 
   const hotDrinks = [
